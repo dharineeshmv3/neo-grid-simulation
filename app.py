@@ -22,7 +22,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import json
 
-from src.config import CFG, NEO-GRIDConfig
+from src.config import CFG, GridShieldConfig
 from src.scenarios import run_scenario, run_all_scenarios, run_cloud_event_zoom, ScenarioResults
 from src.finance import calculate_project_financials
 from src.dlmp import calculate_dlmp, compute_feeder_loss_factor, compute_congestion_shadow_price
