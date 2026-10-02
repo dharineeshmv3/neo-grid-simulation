@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.log
+.DS_Store
+*.docx
+*.jpeg
+*.jpg
+*.png
+*.pdf
+!docs/NEO-GRID_Report.pdf

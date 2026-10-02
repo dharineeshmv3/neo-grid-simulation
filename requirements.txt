@@ -1,0 +1,12 @@
+numpy>=1.20.0
+pandas>=1.4.0
+scipy>=1.8.0
+pandapower>=2.14.0
+streamlit>=1.30.0
+plotly>=5.0.0
+jsonschema>=4.0.0
+paho-mqtt>=2.0.0
+requests>=2.25.0
+pytest>=8.0.0
+
+fpdf2>=2.7.0
